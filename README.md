@@ -1,6 +1,6 @@
 # Bench2Drive Leaderboard
 [Bench2Drive](https://github.com/Thinklab-SJTU/Bench2Drive) is a popular autonomous driving benchmark. Over 40 methods have been tested on Bench2Drive. Papers using the benchmark usually only report a few baselines due to space constraints making it hard to keep an overview over the literature.
-To solve this, this repository contain a complete list of all methods that have currently been tested on Bench2Drive.
+To solve this, this repository contains a complete list of all methods that have currently been tested on Bench2Drive.
 
 The results are from Bench2Drive version 0.0.3 and self-reported, copied from the respective publications. 
 Methods are sorted by Driving Score (DS).
