@@ -31,7 +31,7 @@ Last updated: 10. Nov. 2025
 | [UniAD](https://arxiv.org/abs/2212.10156)                                                                                       |  45.81   |   16.36   | 2023 |       CVPR       |
 | [MomAD](https://arxiv.org/abs/2503.03125)                                                                                       |  47.91   |   18.11   | 2025 |       CVPR       |
 | [CogAD](https://arxiv.org/abs/2505.21581)                                                                                       |  48.30   |   24.00   | 2025 |        -         |
-| [AdaptiveAD](https://arxiv.org/abs/2511.13079)                                                                             |  49.47   |   19.23   | 2025 |        -         |
+| [AdaptiveAD](https://arxiv.org/abs/2511.13079)                                                                                  |  49.47   |   19.23   | 2025 |        -         |
 | [BridgeAD](https://arxiv.org/abs/2503.14182)                                                                                    |  50.06   |   22.73   | 2025 |       CVPR       |
 | [E³AD](https://arxiv.org/abs/2511.01334)                                                                                        |  50.07   |   20.12   | 2025 |        -         |
 | [X-Driver](https://arxiv.org/abs/2505.05098)                                                                                    |  51.70   |   18.10   | 2025 |        -         |
@@ -59,6 +59,7 @@ Last updated: 10. Nov. 2025
 | [Hydra-NeXt](https://arxiv.org/abs/2503.12030)                                                                                  |  73.86   |   50.00   | 2025 |        -         |
 | [DriveMoE](https://arxiv.org/abs/2505.16278)                                                                                    |  74.22   |   48.64   | 2025 |        -         |
 | [ETA](https://arxiv.org/abs/2506.07725)                                                                                         |  74.33   |   48.33   | 2025 |       ICCV       |
+| [GuideFlow](https://arxiv.org/abs/2511.18729)                                                                                   | 75.21 |     51.36      | 2025 |        -         |
 | [DiffusionDrive-temp](https://arxiv.org/abs/2411.15139)                                                                         |  77.68   |   52.72   | 2025 |       CVPR       |
 | [ORION](https://arxiv.org/abs/2503.19755)                                                                                       |  77.74   |   54.62   | 2025 |       ICCV       |
 | [PGS](https://openreview.net/forum?id=PZqII8EoFG&referrer=%5Bthe%20profile%20of%20Yi%20Huang%5D(%2Fprofile%3Fid%3D~Yi_Huang20)) |  78.08   |   48.64   | 2025 |     NeurIPS      |
