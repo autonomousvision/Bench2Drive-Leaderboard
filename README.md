@@ -13,7 +13,7 @@ To add a new method please open a pull request. For fixing errors please open a 
 
 [Main.tex](main.tex) contains the leaderboard table as latex with the associated citations in CVPR-style.
 
-Last updated: 28. Dec. 2025
+Last updated: 07. Jan. 2026
 
 ## Results:
 
@@ -63,6 +63,7 @@ Last updated: 28. Dec. 2025
 | [GuideFlow](https://arxiv.org/abs/2511.18729)                                                                                   |   75.21   |   51.36   | 2025 |    -     |
 | [DiffusionDrive-temp](https://arxiv.org/abs/2411.15139)                                                                         |   77.68   |   52.72   | 2025 |   CVPR   |
 | [ORION](https://arxiv.org/abs/2503.19755)                                                                                       |   77.74   |   54.62   | 2025 |   ICCV   |
+| [SpaceDrive+](https://arxiv.org/abs/2512.10719) |   78.02   |   55.11   | 2025 |    -     |
 | [PGS](https://openreview.net/forum?id=PZqII8EoFG&referrer=%5Bthe%20profile%20of%20Yi%20Huang%5D(%2Fprofile%3Fid%3D~Yi_Huang20)) |   78.08   |   48.64   | 2025 | NeurIPS  |
 | [Expert-VADv2](https://arxiv.org/abs/2511.11740)                                                                                |   78.18   |   58.34   | 2025 |    -     |
 | [GaussianFusion](https://arxiv.org/abs/2506.00034)                                                                              |   79.10   |   54.40   | 2025 | NeurIPS  |
