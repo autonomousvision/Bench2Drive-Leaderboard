@@ -47,6 +47,7 @@ Last updated: 07. Jan. 2026
 | [iPad](https://arxiv.org/abs/2505.15111)                                                                                        |   65.02   |   35.91   | 2025 |    -     |
 | [StuckSolver](https://arxiv.org/abs/2510.26023)                                                                                 |   65.23   |   36.32   | 2025 |    -     |
 | [GEMINUS](https://arxiv.org/abs/2507.14456)                                                                                     |   65.39   |   37.73   | 2025 |    -     |
+| [HiPro-AD](https://www.mdpi.com/1424-8220/26/1/185)                                                                                    |   65.48   |   37.31   | 2025 | Sensors  |
 | [VDRive](https://arxiv.org/abs/2510.15446)                                                                                      |   66.25   |   50.51   | 2025 |    -     |
 | [RAP-ResNet](https://arxiv.org/abs/2510.04333)                                                                                  |   66.42   |   37.27   | 2025 |    -     |
 | [CAPS](https://arxiv.org/abs/2503.01650)                                                                                        |   66.76   |   52.87   | 2025 |    -     |
