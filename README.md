@@ -56,6 +56,7 @@ Last updated: 07. Jan. 2026
 | [DIVER](https://arxiv.org/abs/2507.04049)                                                                                       |   68.90   |   36.75   | 2025 |    -     |
 | [ReCogDrive](https://arxiv.org/abs/2506.08052)                                                                                  |   71.36   |   45.45   | 2025 |    -     |
 | [Raw2Drive](https://arxiv.org/abs/2505.16394)                                                                                   |   71.36   |   50.24   | 2025 | NeurIPS  |
+| [TakeAD](https://arxiv.org/abs/2512.17370)                                                                                      |   71.39   |   40.83   | 2025 |   RA-L   |
 | [VL](https://arxiv.org/abs/2406.01544)                                                                                          |   73.29   |   65.44   | 2025 |   ICRA   |
 | [Hydra-NeXt](https://arxiv.org/abs/2503.12030)                                                                                  |   73.86   |   50.00   | 2025 |    -     |
 | [DriveMoE](https://arxiv.org/abs/2505.16278)                                                                                    |   74.22   |   48.64   | 2025 |    -     |
@@ -63,7 +64,7 @@ Last updated: 07. Jan. 2026
 | [GuideFlow](https://arxiv.org/abs/2511.18729)                                                                                   |   75.21   |   51.36   | 2025 |    -     |
 | [DiffusionDrive-temp](https://arxiv.org/abs/2411.15139)                                                                         |   77.68   |   52.72   | 2025 |   CVPR   |
 | [ORION](https://arxiv.org/abs/2503.19755)                                                                                       |   77.74   |   54.62   | 2025 |   ICCV   |
-| [SpaceDrive+](https://arxiv.org/abs/2512.10719) |   78.02   |   55.11   | 2025 |    -     |
+| [SpaceDrive+](https://arxiv.org/abs/2512.10719)                                                                                 |   78.02   |   55.11   | 2025 |    -     |
 | [PGS](https://openreview.net/forum?id=PZqII8EoFG&referrer=%5Bthe%20profile%20of%20Yi%20Huang%5D(%2Fprofile%3Fid%3D~Yi_Huang20)) |   78.08   |   48.64   | 2025 | NeurIPS  |
 | [Expert-VADv2](https://arxiv.org/abs/2511.11740)                                                                                |   78.18   |   58.34   | 2025 |    -     |
 | [GaussianFusion](https://arxiv.org/abs/2506.00034)                                                                              |   79.10   |   54.40   | 2025 | NeurIPS  |
