@@ -7,7 +7,7 @@ Methods are sorted by Driving Score (DS).
 At the bottom of the table, separated by a line, are privileged methods that use ground truth perception as input.
 This leaderboard compares the final performance of entire methods, including data acquisition methods, not just architectures.
 Methods vary among many axes: driving dataset used, pre-training strategy, training compute, inference compute, number of parameters, IL/RL, etc.
-In particular, many (6/7) of the current top-performing methods use PDM-Lite or LEAD as expert.
+In particular, many (6/8) of the current top-performing methods use PDM-Lite or LEAD as expert.
 
 To add a new method please open a pull request. For fixing errors please open a GitHub issue.
 
@@ -79,8 +79,9 @@ Last updated: 22. Jan. 2026
 | [HiP-AD](https://arxiv.org/abs/2503.08612)                                                                                      |   86.77   |   69.09   | 2025 |   ICCV   |
 | [BridgeDrive](https://arxiv.org/abs/2509.23589)                                                                                 |   86.87   |   72.27   | 2025 |    -     |
 | [DiffRefiner](https://arxiv.org/abs/2511.17150)                                                                                 |   87.1    |   71.4    | 2025 |    -     |
+| [AlignDrive](https://arxiv.org/abs/2601.01762)                                                                                  |      89.07     |     73.18      | 2026 |    -     |
 | [TFv6](https://arxiv.org/abs/2512.20563)                                                                                        | **95.28** | **86.81** | 2025 |    -     |
-| ---                                                                                                                             |   ---    |    ---    | ---  |   ---    |
-| *[Think2Drive](https://arxiv.org/abs/2402.16720)*                                                                               | *91.85*  |  *85.41*  | 2024 |   ECCV   |
-| *[LEAD](https://arxiv.org/abs/2512.20563)*                                                                                      | *96.78*  |  *96.59*  | 2025 |    -     |
-| *[PDM-Lite](https://arxiv.org/abs/2312.14150)*                                                                                  | *97.02*  |  *92.27*  | 2024 |   ECCV   |
+| ---                                                                                                                             |    ---    |    ---    | ---  |   ---    |
+| *[Think2Drive](https://arxiv.org/abs/2402.16720)*                                                                               |  *91.85*  |  *85.41*  | 2024 |   ECCV   |
+| *[LEAD](https://arxiv.org/abs/2512.20563)*                                                                                      |  *96.78*  |  *96.59*  | 2025 |    -     |
+| *[PDM-Lite](https://arxiv.org/abs/2312.14150)*                                                                                  |  *97.02*  |  *92.27*  | 2024 |   ECCV   |
