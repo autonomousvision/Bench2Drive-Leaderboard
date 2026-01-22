@@ -13,7 +13,7 @@ To add a new method please open a pull request. For fixing errors please open a 
 
 [Main.tex](main.tex) contains the leaderboard table as latex with the associated citations in CVPR-style.
 
-Last updated: 07. Jan. 2026
+Last updated: 22. Jan. 2026
 
 ## Results:
 
@@ -52,6 +52,7 @@ Last updated: 07. Jan. 2026
 | [RAP-ResNet](https://arxiv.org/abs/2510.04333)                                                                                  |   66.42   |   37.27   | 2025 |    -     |
 | [CAPS](https://arxiv.org/abs/2503.01650)                                                                                        |   66.76   |   52.87   | 2025 |    -     |
 | [SNG](https://zhihua-hua.github.io/NavigationDrive-web/static/NavigationDrive.pdf)                                              |   67.17   |   35.90   | 2025 |    -     |
+| [Diffusion-Phy](https://www.sciencedirect.com/science/article/pii/S0031320326000245)                                              |   67.49   |   36.51   | 2026 |    PR    |
 | [DiffAD](https://arxiv.org/abs/2503.12170)                                                                                      |   67.92   |   38.64   | 2025 |    -     |
 | [OAIAD](https://www.mdpi.com/2075-1702/13/10/965)                                                                               |   68.73   |   48.86   | 2025 | Machines |
 | [DIVER](https://arxiv.org/abs/2507.04049)                                                                                       |   68.90   |   36.75   | 2025 |    -     |
