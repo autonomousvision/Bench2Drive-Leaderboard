@@ -13,7 +13,7 @@ To add a new method please open a pull request. For fixing errors please open a 
 
 [Main.tex](main.tex) contains the leaderboard table as latex with the associated citations in CVPR-style.
 
-Last updated: 24. Jan. 2026
+Last updated: 30. Jan. 2026
 
 ## Results:
 
@@ -21,7 +21,7 @@ Last updated: 24. Jan. 2026
 |:---------------------------------------------------------------------------------------------------------------------------------|:---------:|:---------:|:----:|:--------:|
 | [AD-MLP](https://arxiv.org/abs/2305.10430)                                                                                       |   18.05   |   0.00    | 2023 |    -     |
 | [TCP](https://arxiv.org/abs/2206.08129)                                                                                          |   40.70   |   15.00   | 2022 | NeurIPS  |
-| [ReAL-AD](https://arxiv.org/abs/2507.12499)                                                                                      |   41.17   |   11.36   | 2025 |    -     |
+| [ReAL-AD](https://arxiv.org/abs/2507.12499)                                                                                      |   41.17   |   11.36   | 2025 |   ICCV   |
 | [VAD](https://arxiv.org/abs/2303.12077)                                                                                          |   42.35   |   15.00   | 2023 |   ICCV   |
 | [SparseDrive](https://arxiv.org/abs/2405.19620)                                                                                  |   44.54   |   16.71   | 2025 |   ICRA   |
 | [GenAD](https://arxiv.org/abs/2403.09630)                                                                                        |   44.81   |   15.90   | 2024 |   ECCV   |
@@ -33,7 +33,7 @@ Last updated: 24. Jan. 2026
 | [CogAD](https://arxiv.org/abs/2505.21581)                                                                                        |   48.30   |   24.00   | 2025 |    -     |
 | [AdaptiveAD](https://arxiv.org/abs/2511.13079)                                                                                   |   49.47   |   19.23   | 2025 |    -     |
 | [BridgeAD](https://arxiv.org/abs/2503.14182)                                                                                     |   50.06   |   22.73   | 2025 |   CVPR   |
-| [E³AD](https://arxiv.org/abs/2511.01334)                                                                                         |   50.07   |   20.12   | 2025 |    -     |
+| [E³AD](https://arxiv.org/abs/2511.01334)                                                                                         |   50.07   |   20.12   | 2025 | NeurIPS  |
 | [X-Driver](https://arxiv.org/abs/2505.05098)                                                                                     |   51.70   |   18.10   | 2025 |    -     |
 | [DiFSD](https://arxiv.org/abs/2409.09777)                                                                                        |   52.02   |   21.00   | 2024 |    -     |
 | [SpaRC-AD](https://arxiv.org/abs/2508.10567)                                                                                     |   55.60   |   30.00   | 2025 | Workshop |
@@ -50,7 +50,7 @@ Last updated: 24. Jan. 2026
 | [GEMINUS](https://arxiv.org/abs/2507.14456)                                                                                      |   65.39   |   37.73   | 2025 |    -     |
 | [HiPro-AD](https://www.mdpi.com/1424-8220/26/1/185)                                                                              |   65.48   |   37.31   | 2025 | Sensors  |
 | [VDRive](https://arxiv.org/abs/2510.15446)                                                                                       |   66.25   |   50.51   | 2025 |    -     |
-| [RAP-ResNet](https://arxiv.org/abs/2510.04333)                                                                                   |   66.42   |   37.27   | 2025 |    -     |
+| [RAP-ResNet](https://arxiv.org/abs/2510.04333)                                                                                   |   66.42   |   37.27   | 2026 |   ICLR   |
 | [CAPS](https://arxiv.org/abs/2503.01650)                                                                                         |   66.76   |   52.87   | 2025 |    -     |
 | [SNG](https://zhihua-hua.github.io/NavigationDrive-web/static/NavigationDrive.pdf)                                               |   67.17   |   35.90   | 2025 |    -     |
 | [Diffusion-Phy](https://www.sciencedirect.com/science/article/pii/S0031320326000245)                                             |   67.49   |   36.51   | 2026 |    PR    |
@@ -61,16 +61,16 @@ Last updated: 24. Jan. 2026
 | [Raw2Drive](https://arxiv.org/abs/2505.16394)                                                                                    |   71.36   |   50.24   | 2025 | NeurIPS  |
 | [TakeAD](https://arxiv.org/abs/2512.17370)                                                                                       |   71.39   |   40.83   | 2025 |   RA-L   |
 | [VL](https://arxiv.org/abs/2406.01544)                                                                                           |   73.29   |   65.44   | 2025 |   ICRA   |
-| [Hydra-NeXt](https://arxiv.org/abs/2503.12030)                                                                                   |   73.86   |   50.00   | 2025 |    -     |
+| [Hydra-NeXt](https://arxiv.org/abs/2503.12030)                                                                                   |   73.86   |   50.00   | 2025 |   ICCV   |
 | [DriveMoE](https://arxiv.org/abs/2505.16278)                                                                                     |   74.22   |   48.64   | 2025 |    -     |
 | [ETA](https://arxiv.org/abs/2506.07725)                                                                                          |   74.33   |   48.33   | 2025 |   ICCV   |
 | [GuideFlow](https://arxiv.org/abs/2511.18729)                                                                                    |   75.21   |   51.36   | 2025 |    -     |
 | [DiffusionDrive-temp](https://arxiv.org/abs/2411.15139)                                                                          |   77.68   |   52.72   | 2025 |   CVPR   |
 | [ORION](https://arxiv.org/abs/2503.19755)                                                                                        |   77.74   |   54.62   | 2025 |   ICCV   |
 | [SpaceDrive+](https://arxiv.org/abs/2512.10719)                                                                                  |   78.02   |   55.11   | 2025 |    -     |
-| [MindDrive](https://arxiv.org/abs/2512.13636)                                                                                    |   78.04   |   55.09   | 2025 |    -     |
+| [MindDrive](https://arxiv.org/abs/2512.13636)                                                                                    |   78.04   |   55.09   | 2025 |   CVPR   |
 | [PGS](https://openreview.net/forum?id=PZqII8EoFG&referrer=%5Bthe%20profile%20of%20Yi%20Huang%5D(%2Fprofile%3Fid%3D~Yi_Huang20))  |   78.08   |   48.64   | 2025 | NeurIPS  |
-| [Expert-VADv2](https://arxiv.org/abs/2511.11740)                                                                                 |   78.18   |   58.34   | 2025 |    -     |
+| [Expert-VADv2](https://arxiv.org/abs/2511.11740)                                                                                 |   78.18   |   58.34   | 2026 |   AAAI   |
 | [GaussianFusion](https://arxiv.org/abs/2506.00034)                                                                               |   79.10   |   54.40   | 2025 | NeurIPS  |
 | [UniDrive-WM](https://arxiv.org/abs/2601.04453)                                                                                  |   79.22   |   56.36   | 2026 |    -     |
 | [Cot4AD-CoT](https://arxiv.org/abs/2511.22532)                                                                                   |   81.22   |   55.78   | 2025 |    -     |
@@ -78,9 +78,9 @@ Last updated: 24. Jan. 2026
 | [TFM+void](https://doi.org/10.5324/zpjv0r03 )                                                                                    |   83.69   |   64.85   | 2025 |   NIK    |
 | [TF++](https://arxiv.org/abs/2412.09602)                                                                                         |   84.21   |   67.27   | 2024 |    -     |
 | [SimLingo](https://arxiv.org/abs/2503.09594)                                                                                     |   85.07   |   67.27   | 2025 |   CVPR   |
-| [R2SE](https://arxiv.org/abs/2506.09800)                                                                                         |   86.28   |   69.54   | 2025 |    -     |
+| [R2SE](https://arxiv.org/abs/2506.09800)                                                                                         |   86.28   |   69.54   | 2026 |  PAMI  |
 | [HiP-AD](https://arxiv.org/abs/2503.08612)                                                                                       |   86.77   |   69.09   | 2025 |   ICCV   |
-| [BridgeDrive](https://arxiv.org/abs/2509.23589)                                                                                  |   86.87   |   72.27   | 2025 |    -     |
+| [BridgeDrive](https://arxiv.org/abs/2509.23589)                                                                                  |   86.87   |   72.27   | 2026 |    ICLR     |
 | [DiffRefiner](https://arxiv.org/abs/2511.17150)                                                                                  |   87.1    |   71.4    | 2025 |    -     |
 | [KnowVal](https://arxiv.org/abs/2512.20299)                                                                                      |   88.42   |   69.03   | 2025 |    -     |
 | [AlignDrive](https://arxiv.org/abs/2601.01762)                                                                                   |   89.07   |     73.18      | 2026 |    -     |
