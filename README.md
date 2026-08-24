@@ -62,6 +62,7 @@ Last updated: 21. Aug. 2026
 | [DiffAD](https://arxiv.org/abs/2503.12170)                                                                                                 |   67.92   |   38.64   | 2025 |    -     |
 | [OAIAD](https://www.mdpi.com/2075-1702/13/10/965)                                                                                          |   68.73   |   48.86   | 2025 | Machines |
 | [DIVER](https://arxiv.org/abs/2507.04049)                                                                                                  |   68.90   |   36.75   | 2025 |    -     |
+| [CRAFT](https://arxiv.org/abs/2605.04470)                                                                                                  |   71.10   |   50.45   | 2026 |    -     |
 | [ReCogDrive](https://arxiv.org/abs/2506.08052)                                                                                             |   71.36   |   45.45   | 2025 |    -     |
 | [Raw2Drive](https://arxiv.org/abs/2505.16394)                                                                                              |   71.36   |   50.24   | 2025 | NeurIPS  |
 | [TakeAD](https://arxiv.org/abs/2512.17370)                                                                                                 |   71.39   |   40.83   | 2025 |   RA-L   |
@@ -95,7 +96,7 @@ Last updated: 21. Aug. 2026
 | [HiP-AD](https://arxiv.org/abs/2503.08612)                                                                                                 |   86.77   |   69.09   | 2025 |   ICCV   |
 | [BridgeDrive](https://arxiv.org/abs/2509.23589)                                                                                            |   86.87   |   72.27   | 2026 |   ICLR   |
 | [DiffRefiner](https://arxiv.org/abs/2511.17150)                                                                                            |   87.1    |   71.4    | 2025 |    -     |
-| [LCS](https://arxiv.org/abs/2608.00237)                                                                                                    |    87.18   |    71.16   | 2026 |    -     |
+| [LCS](https://arxiv.org/abs/2608.00237)                                                                                                    |   87.18   |    71.16   | 2026 |    -     |
 | [UniTeD](https://arxiv.org/abs/2606.25736)                                                                                                 |   87.3    |   70.0    | 2026 |    -     |
 | [CaAD](https://arxiv.org/abs/2605.13646)                                                                                                   |   87.53   |   71.81   | 2026 |    -     |
 | [CriticVLA](https://arxiv.org/abs/2604.27366)                                                                                              |   88.02   |   73.33   | 2026 |    -     |
