@@ -81,6 +81,7 @@ Last updated: 28. Aug. 2026
 | [Expert-VADv2](https://arxiv.org/abs/2511.11740)                                                                                                               |   78.18   |   58.34   | 2026 |   AAAI   |
 | [PerlAD](https://arxiv.org/abs/2603.14908)                                                                                                                     |   78.70   |   57.27   | 2026 |   RA-L   |
 | [UniDriveVLA](https://arxiv.org/abs/2604.02190)                                                                                                                |   78.73   |   51.82   | 2026 |    -     |
+| [MomADv2](https://arxiv.org/abs/2608.23405)                                                                                                                |   78.82   |   46.50   | 2026 |    -     |
 | [AutoVLA](https://arxiv.org/abs/2506.13757)                                                                                                                    |   78.84   |   57.73   | 2025 | NeurIPS  |
 | [VLGA](https://arxiv.org/abs/2606.12396)                                                                                                                       |   79.08   |   52.73   | 2026 |    -     |
 | [GaussianFusion](https://arxiv.org/abs/2506.00034)                                                                                                             |   79.10   |   54.40   | 2025 | NeurIPS  |
