@@ -20,7 +20,7 @@ Last updated: 18. Sep. 2026
 | Method                                                                                                                                                         |   DS ↑    |   SR ↑    | Year |  Venue   |
 |:---------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------:|:---------:|:----:|:--------:|
 | [AD-MLP](https://arxiv.org/abs/2305.10430)                                                                                                                     |   18.05   |   0.00    | 2023 |    -     |
-| [MemoryDrivoR](https://arxiv.org/abs/2608.31029)                                                                                                                           |   37.4    |    9.5    | 2026 |    -     |
+| [MemoryDrivoR](https://arxiv.org/abs/2608.31029)                                                                                                               |   37.4    |    9.5    | 2026 |    -     |
 | [TCP](https://arxiv.org/abs/2206.08129)                                                                                                                        |   40.70   |   15.00   | 2022 | NeurIPS  |
 | [ReAL-AD](https://arxiv.org/abs/2507.12499)                                                                                                                    |   41.17   |   11.36   | 2025 |   ICCV   |
 | [VAD](https://arxiv.org/abs/2303.12077)                                                                                                                        |   42.35   |   15.00   | 2023 |   ICCV   |
@@ -41,6 +41,7 @@ Last updated: 18. Sep. 2026
 | [IRL-VLA-RL](https://openaccess.thecvf.com/content/CVPR2026F/papers/Jiang_IRL-VLA_Vision-Language-Action_Training_via_Reward_World_Model_CVPRF_2026_paper.pdf) |   55.36   |   28.24   | 2026 |  CVPRF   |
 | [SpaRC-AD](https://arxiv.org/abs/2508.10567)                                                                                                                   |   55.60   |   30.00   | 2025 | Workshop |
 | [SeerDrive](https://arxiv.org/abs/2510.11092)                                                                                                                  |   58.32   |   30.17   | 2025 | NeurIPS  |
+| [DrivoR](https://arxiv.org/abs/2601.05083)                                                                                                                     |   61.0    |   30.5    | 2026 |   CVPR   |
 | [WoTE](https://arxiv.org/abs/2504.01941)                                                                                                                       |   61.71   |   31.36   | 2025 |   ICCV   |
 | [DriveDPO](https://arxiv.org/abs/2509.17940)                                                                                                                   |   62.02   |   30.62   | 2025 | NeurIPS  |
 | [ThinkTwice](https://arxiv.org/abs/2305.06242)                                                                                                                 |   62.44   |   31.23   | 2022 |   CVPR   |
