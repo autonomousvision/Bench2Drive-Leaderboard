@@ -13,7 +13,7 @@ To add a new method please open a pull request. For fixing errors please open a 
 
 [Main.tex](main.tex) contains the leaderboard table as latex with the associated citations in CVPR-style.
 
-Last updated: 18. Sep. 2026
+Last updated: 21. Sep. 2026
 
 ## Results:
 
@@ -111,6 +111,7 @@ Last updated: 18. Sep. 2026
 | [RaWMPC](https://arxiv.org/abs/2602.23259)                                                                                                                     |   88.31   |   70.48   | 2026 |    -     |
 | [DynVLA](https://arxiv.org/abs/2603.11041)                                                                                                                     |   88.34   |   72.73   | 2026 |    -     |
 | [KnowVal](https://arxiv.org/abs/2512.20299)                                                                                                                    |   88.42   |   69.03   | 2025 |    -     |
+| [DRiF](https://arxiv.org/abs/2609.10377)                                                                                                                                                           |   88.78    |   75.91   | 2026 |    -     |
 | [GraphPilot](https://arxiv.org/abs/2511.11266)                                                                                                                 |   88.89   |   72.73   | 2025 |    -     |
 | [VECTOR-DRIVE](https://arxiv.org/abs/2605.08830)                                                                                                               |   88.91   |   71.82   | 2026 |    -     |
 | [PersonaDrive](https://arxiv.org/abs/2606.12616)                                                                                                               |   88.95   |   72.29   | 2026 |    -     |
