@@ -122,6 +122,7 @@ Last updated: 21. Sep. 2026
 | [TakeVLA](https://arxiv.org/abs/2603.14972)                                                                                                                    |   89.72   |   73.73   | 2026 |    -     |
 | [RoG-DAgger](https://arxiv.org/abs/2608.24525)                                                                                                                 |   90.34   |   73.51   | 2026 |    -     |
 | [BLUE](https://arxiv.org/abs/2606.08684)                                                                                                                       |   90.58   |   76.18   | 2026 |  EMNLP   |
+| [FIVE-VLA](https://arxiv.org/abs/2609.18623)                                                                                                                       |   90.95   |   77.27   | 2026 |     |
 | [SteerVLA](https://arxiv.org/abs/2602.08440)                                                                                                                   |    91     |     -     | 2026 |    -     |
 | [LinkVLA](https://arxiv.org/abs/2603.01441)                                                                                                                    |   91.01   |   74.55   | 2026 |    -     |
 | [TFv6](https://arxiv.org/abs/2512.20563)                                                                                                                       | **95.28** | **86.81** | 2026 |   CVPR   |
