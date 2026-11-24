@@ -13,7 +13,7 @@ To add a new method please open a pull request. For fixing errors please open a 
 
 [Main.tex](main.tex) contains the leaderboard table as latex with the associated citations in CVPR-style.
 
-Last updated: 06. Nov. 2026
+Last updated: 24. Nov. 2026
 
 ## Results:
 
@@ -122,12 +122,13 @@ Last updated: 06. Nov. 2026
 | [TakeVLA](https://arxiv.org/abs/2603.14972)                                                                                                                    |   89.72   |   73.73   | 2026 |    -     |
 | [RoG-DAgger](https://arxiv.org/abs/2608.24525)                                                                                                                 |   90.34   |   73.51   | 2026 |    -     |
 | [BLUE](https://arxiv.org/abs/2606.08684)                                                                                                                       |   90.58   |   76.18   | 2026 |  EMNLP   |
-| [FIVE-VLA](https://arxiv.org/abs/2609.18623)                                                                                                                   |   90.95   |   77.27   | 2026 |          |
+| [FIVE-VLA](https://arxiv.org/abs/2609.18623)                                                                                                                   |   90.95   |   77.27   | 2026 |    -     |
 | [SteerVLA](https://arxiv.org/abs/2602.08440)                                                                                                                   |    91     |     -     | 2026 |    -     |
 | [LinkVLA](https://arxiv.org/abs/2603.01441)                                                                                                                    |   91.01   |   74.55   | 2026 |    -     |
 | [TFv6](https://arxiv.org/abs/2512.20563)                                                                                                                       |   95.28   |   86.81   | 2026 |   CVPR   |
 | [BridgeDrive (LEAD)](https://arxiv.org/abs/2509.23589v4)                                                                                                       |   96.34   |   89.25   | 2026 |   ICLR   |
-| [TFv6+ScaleDrive](https://arxiv.org/abs/2611.02853)                                                                                                                                                      | **96.65** | **90.45** | 2026 |      |
+| [TFv6+ScaleDrive](https://arxiv.org/abs/2611.02853)                                                                                                            |   96.65   | **90.45** | 2026 |    -     |
+| [DRIFT](https://arxiv.org/abs/2611.24719)                                                                                                                      | **97.03** |   89.39   | 2026 |    -     |
 | ---                                                                                                                                                            |    ---    |    ---    | ---  |   ---    |
 | *[Think2Drive](https://arxiv.org/abs/2402.16720)*                                                                                                              |  *91.85*  |  *85.41*  | 2024 |   ECCV   |
 | *[LEAD](https://arxiv.org/abs/2512.20563)*                                                                                                                     |  *96.78*  |  *96.59*  | 2026 |   CVPR   |
